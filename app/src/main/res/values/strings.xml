@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">B_AM_PIOUGaetan_ListeSports</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="description">Image du sport selectionne</string>
+
+    <string-array name="Sport">
+        <item>Football</item>
+        <item>Boxe</item>
+        <item>Ski</item>
+        <item>Surf</item>
+        <item>Kendo</item>
+        <item>Rugby</item>
+        <item>Marche à pied</item>
+        <item>Course à pied</item>
+        <item>Escalade</item>
+    </string-array>
+
+    <string name="nomSport1">Le Football</string>
+    <string name="nomSport2">La Boxe</string>
+    <string name="nomSport3">Le Ski</string>
+    <string name="nomSport4">Le Surf</string>
+    <string name="nomSport5">Le Kendo</string>
+    <string name="nomSport6">Le Rugby</string>
+    <string name="nomSport7">La Marche à pied</string>
+    <string name="nomSport8">La Course à pied</string>
+    <string name="nomSport9">L Escalade</string>
+
+    <string name="descSport1">Le football est un sport en équipe</string>
+    <string name="descSport2">La boxe est un sport solo</string>
+    <string name="descSport3">Le ski est un sport d hiver</string>
+    <string name="descSport4">Le surf est un sport d été</string>
+    <string name="descSport5">Le kendo est un sport Japonais</string>
+    <string name="descSport6">Le rugby est un sport Anglais</string>
+    <string name="descSport7">La marche à pied est un sport simple</string>
+    <string name="descSport8">La course à pied est la version plus rapide de la marche à pied</string>
+    <string name="descSport9">L escalade est la version verticale de la marche à pied</string>
+</resources>
